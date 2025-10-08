@@ -1,0 +1,14 @@
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.AssemblyInfoInputs.cache
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.AssemblyInfo.cs
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.csproj.CoreCompileInputs.cache
+C:\Users\prokk\source\repos\DeloitteFeladat\bin\Debug\net8.0\DeloitteFeladat.exe
+C:\Users\prokk\source\repos\DeloitteFeladat\bin\Debug\net8.0\DeloitteFeladat.deps.json
+C:\Users\prokk\source\repos\DeloitteFeladat\bin\Debug\net8.0\DeloitteFeladat.runtimeconfig.json
+C:\Users\prokk\source\repos\DeloitteFeladat\bin\Debug\net8.0\DeloitteFeladat.dll
+C:\Users\prokk\source\repos\DeloitteFeladat\bin\Debug\net8.0\DeloitteFeladat.pdb
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.dll
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\refint\DeloitteFeladat.dll
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.pdb
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\DeloitteFeladat.genruntimeconfig.cache
+C:\Users\prokk\source\repos\DeloitteFeladat\obj\Debug\net8.0\ref\DeloitteFeladat.dll
